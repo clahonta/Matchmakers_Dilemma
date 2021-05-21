@@ -5,6 +5,7 @@ This folder contains a prediction tool intending to identify participants predis
 ## Table of Contents
 ##### 1. Documents
 * [Report](https://github.com/clahonta/Matchmakers_Dilemma/blob/master/documents/The%20Matchmaker's%20Dilemma.pdf)
+* [Slides](https://github.com/clahonta/Matchmakers_Dilemma/blob/master/documents/The%20Matchmaker's%20Dilemma%20-%20slides.pptx)
 ##### 2. Notebooks
 
 * [Data Wrangling](https://github.com/clahonta/Matchmakers_Dilemma/blob/master/notebooks/Matchmaker's%20Dilemma%20-%20Data%20Wrangling.ipynb)
